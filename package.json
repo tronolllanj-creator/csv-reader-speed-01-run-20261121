@@ -1,0 +1,4 @@
+{
+  "type": "module",
+  "description": "Fast drop-in CSV reader for the make.fun csv-reader-speed-01 bounty"
+}
